@@ -16,10 +16,7 @@ Brand: Categorical label indicating whether the car is from US, Japan, or Europe
 
 🧪 Project Workflow
 1. Data Preprocessing
-Handled missing values using mean imputation.
-Removed duplicate records.
 Selected numerical features for model training.
-Encoded categorical labels (Brand) if needed.
 
 2. Model Training
 Applied Decision Tree Classifier from scikit-learn.
